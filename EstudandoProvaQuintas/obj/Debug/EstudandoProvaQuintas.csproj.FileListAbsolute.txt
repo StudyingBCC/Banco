@@ -1,0 +1,15 @@
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\bin\Debug\EstudandoProvaQuintas.exe.config
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\bin\Debug\EstudandoProvaQuintas.exe
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\bin\Debug\EstudandoProvaQuintas.pdb
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.frmPrincipal.resources
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.exe
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.pdb
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.frmLogin.resources
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.frmDepositar.resources
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.frmSacar.resources
+C:\Users\fabia\OneDrive\Desktop\EstudandoProvaQuintas\EstudandoProvaQuintas\obj\Debug\EstudandoProvaQuintas.frmTransferir.resources
